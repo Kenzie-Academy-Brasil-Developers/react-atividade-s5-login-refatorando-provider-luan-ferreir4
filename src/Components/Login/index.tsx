@@ -46,6 +46,7 @@ export const Login = () => {
           error={errors.email?.message}
         />
         <Input
+          type="password"
           placeholder="Senha"
           register={register}
           text={"password"}
