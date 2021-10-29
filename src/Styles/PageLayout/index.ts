@@ -15,7 +15,7 @@ export const Page = styled.main`
   background-image: linear-gradient(45deg, #360033, #0b8793);
   background-size: 400%;
 
-  animation: ${animatedBg} 15s infinite alternate;
+  animation: ${animatedBg} 12s infinite alternate;
 
 `;
 
