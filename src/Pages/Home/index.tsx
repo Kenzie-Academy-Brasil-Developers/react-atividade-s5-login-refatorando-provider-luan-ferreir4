@@ -1,10 +1,11 @@
 import { Login } from "../../Components/Login";
+import { Page } from "../../Styles/PageLayout";
 
 const Home = () => {
     return(
-        <div>
+        <Page>
         <Login/>
-        </div>
+        </Page>
     )
 }
 export default Home;
